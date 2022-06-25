@@ -1,4 +1,5 @@
 # UFOs
+![nasa](https://user-images.githubusercontent.com/100393032/175787826-52f0361a-7e7e-4f22-93e2-90ae5cbdde61.jpg)
 
 Dana is a Data Journalist who is writing a piece about UFOs based in her hometown. This project utlizes tools such as Javascript and HMTL to create a webpage that will display all of the gathered information concerning UFO sightings. Using filters allows the user to access Dana's information in a smart and efficient manner.
 
